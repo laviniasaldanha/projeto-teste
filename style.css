@@ -1,0 +1,10 @@
+nav {
+    background-color: blue;
+    height: 300px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+li{
+    color: aliceblue;
+}
